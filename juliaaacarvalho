@@ -1,0 +1,7 @@
+def main():
+    print("Olá, sou a Júlia Carvalho e estou em uma jornada emocionante na área de Análise e Desenvolvimento de Sistemas.")
+    print("Sou apaixonada por tecnologia, programação e cibersegurança.")
+    print("Adoro aprender coisas novas e compartilhar conhecimento com a comunidade.")
+
+if __name__ == "__main__":
+    main()
